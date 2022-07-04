@@ -1,0 +1,33 @@
+html { background: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);}
+body { 
+    background-image: url("Cyclopsy-Green.jpg"); background-size: cover;
+    width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: 'Neucha', cursive;
+
+    }
+
+h1 { 
+   font-family: 'Monoton', cursive; color: red; text-shadow: 4px 4px 5px black;
+ }
+
+h2 { 
+   font-family: 'Monoton', cursive; color: red; text-shadow: 4px 4px 5px black
+}
+
+h3 { 
+   font-family: 'Monoton', cursive; color: red; text-shadow: 4px 4px 5px black;
+}
+
+h4 {
+   font-family: 'Monoton', cursive; color: red; text-shadow: 4px 4px 5px black;
+}
+
+p {
+   color: yellow; text-shadow: 4px 4px 5px black;
+}
+
+li {
+   color: yellow; text-shadow: 4px 4px 5px black;
+}
